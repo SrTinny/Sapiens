@@ -1,2 +1,2 @@
 # Sapiensv3
-PROJETO QUE SIMULA  A INTERAÇÃO DO PROCESSADOR E MEMÓRIA
+Projeto que simula a interação entre memória RAM e processador
